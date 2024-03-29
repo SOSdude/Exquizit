@@ -1,0 +1,15 @@
+.pytest_cache
+coverage.xml
+__pycache__
+lib
+.readmes
+secrets.tar
+.cache
+junit.xml
+credentials.dat
+.DS_store
+env/
+.vscode
+.env*
+**/venv
+**/noxfile.py
